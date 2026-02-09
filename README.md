@@ -1,6 +1,8 @@
 # personal guide page
 个人引导页，适用于个人网站首页
 
+> 本项目已重构为 [Astro](https://astro.build) 应用，专为现代 Web 打造，[跳转地址](https://github.com/ifeevel/airy-personal-page)。
+
 ![](show-off/Xnip2021-12-29_14-33-20.jpg)
 
 ## ✨ 特性
